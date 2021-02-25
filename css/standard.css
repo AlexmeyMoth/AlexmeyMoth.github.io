@@ -1,0 +1,52 @@
+body {
+    background-color: #111111;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+p {
+    color: #eeeeee;
+    text-align: center;
+}
+h1 {
+    color: #eeeeee;
+    text-align: center;
+}
+h3 {
+    color: #eeeeee;
+    text-align: center;
+}
+a {
+    color: #eeeeee;
+    text-align: center;
+    text-decoration: none;
+}
+.bkgd {
+    border: 8px solid #333333;
+    background-color: #222222;
+    margin: auto;
+    width: 75%;
+}
+.in {
+    margin: auto;
+    width: 95%;
+}
+.div {
+    background-color: #333333;
+    margin: auto;
+    height: 5px;
+    width: 90%
+}
+.pg {
+    color: #eeeeee;
+}
+.pgu {
+    text-decoration: underline;
+    color: #eeeeee;
+}
+.pgu:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    color: #eeeeee;
+}
+.dgry {
+    color: #111111;
+}
