@@ -70,3 +70,6 @@ iframe {
     .plbtnfix:hover {
     text-decoration: underline;
 }
+.twitter-timeline {
+    width: 30%
+}
